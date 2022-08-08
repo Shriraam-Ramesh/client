@@ -3,8 +3,8 @@ import ReactDOM from "react-dom";
 import { BrowserRouter } from "react-router-dom";
 import "./index.css";
 import App from "./App";
-import 'bootstrap/dist/css/bootstrap.css';
 // import 'bootstrap/dist/css/bootstrap.min.css';
+import 'bootstrap/dist/css/bootstrap.css';
 import 'react-toastify/dist/ReactToastify.css';
 ReactDOM.render(
 	<React.StrictMode>
